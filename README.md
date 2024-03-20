@@ -1,13 +1,8 @@
-# Week-4-RGP
-This repo contains the actual source files for a game created for week 4 of Rapid Game Prototyping @ MMU
-
-
 # TheNightmareHeart
  This is a game for week 4 of Rapid Game Prototyping @ MMU
 
-
-Real Source of Game: https://github.com/KaIo2001/Week-4-RGP
-Real and final Ver of the game: https://stummuac-my.sharepoint.com/:f:/g/personal/23660548_stu_mmu_ac_uk/EtqmDDHkk8NEhJdZoSLfCDABKtgvEbAuFbYprjbMQW7ZyA?e=Hh9TGc
+Real (Not broken) Source of Game: https://github.com/KaIo2001/Week-4-RGP
+Real (Not broken) version of the game: https://stummuac-my.sharepoint.com/:f:/g/personal/23660548_stu_mmu_ac_uk/EtqmDDHkk8NEhJdZoSLfCDABKtgvEbAuFbYprjbMQW7ZyA?e=Hh9TGc
 
 
 Jacob Taylor - 23760050
